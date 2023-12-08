@@ -14,24 +14,24 @@ body{
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .white_back{
-    height: 340px;
-    width: 200px;
+    height: 380px;
+    width: 250px;
     background-color: hsl(0, 0%, 100%);
     padding: 10px;
     border-radius: 15px;
 }
 
 .white_back img{
-    height: 200px;
+    height: 250px;
     border-radius: 10px;
 }
 
 .para{
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
 
